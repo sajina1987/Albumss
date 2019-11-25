@@ -1,0 +1,5 @@
+C:\Users\dell\Desktop\Album\AlbumSetUp\AlbumSetUp\bin\AlbumSetUp.dll
+C:\Users\dell\Desktop\Album\AlbumSetUp\AlbumSetUp\bin\AlbumSetUp.pdb
+C:\Users\dell\Desktop\Album\AlbumSetUp\AlbumSetUp\obj\Debug\AlbumSetUp.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\Album\AlbumSetUp\AlbumSetUp\obj\Debug\AlbumSetUp.dll
+C:\Users\dell\Desktop\Album\AlbumSetUp\AlbumSetUp\obj\Debug\AlbumSetUp.pdb
